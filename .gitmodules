@@ -8,3 +8,9 @@
 	url = https://github.com/the-mad-statter/wubik
 	shallow = true
 	registered = true
+[submodule "SparkR"]
+	path = SparkR
+	url = https://github.com/apache/spark
+	shallow = true
+	subdir = R/pkg
+	registered = false
