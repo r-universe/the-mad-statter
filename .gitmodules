@@ -3,51 +3,6 @@
 	url = https://github.com/the-mad-statter/the-mad-statter.r-universe.dev
 	shallow = true
 	branch = HEAD
-[submodule "dplyr"]
-	path = dplyr
-	url = https://github.com/tidyverse/dplyr
-	shallow = true
-	registered = true
-[submodule "forcats"]
-	path = forcats
-	url = https://github.com/tidyverse/forcats
-	shallow = true
-	registered = true
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	shallow = true
-	registered = true
-[submodule "purrr"]
-	path = purrr
-	url = https://github.com/tidyverse/purrr
-	shallow = true
-	registered = true
-[submodule "readr"]
-	path = readr
-	url = https://github.com/tidyverse/readr
-	shallow = true
-	registered = true
-[submodule "rlang"]
-	path = rlang
-	url = https://github.com/r-lib/rlang
-	shallow = true
-	registered = true
-[submodule "stringr"]
-	path = stringr
-	url = https://github.com/tidyverse/stringr
-	shallow = true
-	registered = true
-[submodule "tibble"]
-	path = tibble
-	url = https://github.com/tidyverse/tibble
-	shallow = true
-	registered = true
-[submodule "tidyr"]
-	path = tidyr
-	url = https://github.com/tidyverse/tidyr
-	shallow = true
-	registered = true
 [submodule "wubik"]
 	path = wubik
 	url = https://github.com/the-mad-statter/wubik
