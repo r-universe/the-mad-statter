@@ -1,9 +1,0 @@
-[
-  {
-    "package": "SparkR",
-    "url": "https://github.com/apache/spark",
-    "via": ["wubik"],
-    "subdir": "R/pkg",
-    "from": "wubik"
-  }
-]
